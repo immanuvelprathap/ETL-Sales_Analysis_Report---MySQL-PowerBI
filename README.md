@@ -1,12 +1,15 @@
 # ETL-Sales_Analysis_Report---MySQL-PowerBI,
+
 # To view the Responsive Power BI dashboard click here : https://app.powerbi.com/groups/me/reports/fb8e7d0e-71c7-4786-a8aa-645aff74b836/ReportSection
 
 ## Description of the scenerio? PROBLEM STATEMENT!
+
 * Let's say a company is facing isuues with thier Sales and as a Data Analyst or Data Scientist what insights can you pull out from the Sales data?
 
 * Firstly, you got to design a Strategy to tackle the problem. Usually Project Manager's use something called as AIMS Grid to project plan who all will be involved or bascially find out the relations to sort this issue for the company. https://www.coverdale.de/fileadmin/Germany/Toolbox/Aims-grid.pdf
 
-## A Picture is worth more than a thousand words, right?
+## A picture is worth more than a thousand words, right?
+
 * Hence, we will execute ETL(Extract,Transform,Load) on MySQL and create a responsive dashboard in PowerBi and finally understand the business opportunities, patterns and   trends within data via visualization graphs! This can be the Solution to the uplift the Companies Sales. Data Never Lies!!!
 
 ## Let's Go!
@@ -19,7 +22,8 @@
 
 ### Extract
 * Create an SQL database in SSMS(MySQL Workbench) and load/extract the data from MySql Database. 
-# NOte: 
+
+# Note: 
 * Usually in companies they create a "Data Warehouse" using ETL and from there follow with,
 *  Data Modelling - Data Cleaning - Data Transformation - Data Visualization and so on.
 
@@ -30,8 +34,8 @@
 * Create a simple dataflow in PowerBI Model. (You can also do it on VSCODE using SSIS integration).
 
 * Here, I''m following a Star Schema to Model,
-* You can Learn more about Data Modelling if you follow this free course, https://www.sqlbi.com/p/introduction-to-data-modeling-for-power-bi-video-course/
-* Also, to learn to create calculated columns, measures, and custom tables, follow this course: https://www.sqlbi.com/p/introducing-dax-video-course/
+* You can learn more about Data Modelling if you follow this course, https://www.sqlbi.com/p/introduction-to-data-modeling-for-power-bi-video-course/
+* Also, to learn to create calculated columns, measures, and custom tables for Microsoft Power BI you can follow this course: https://www.sqlbi.com/p/introducing-dax-video-course/
 
 ![alt text](https://github.com/immanuvelprathap/ETL-Sales_Analysis_Report---MySQL-PowerBI/blob/main/Data%20Model%20-%20Relationship.png)
 
@@ -79,7 +83,7 @@
 and transactions.market_code="Mark001";`
 
 
-Formulas used in Power BI,
+Formulas I used in Power BI,
 ============================
 
 1. Formula to create norm_amount column
@@ -94,13 +98,13 @@ Formulas used in Power BI,
  
  `Revenue Contribution % = DIVIDE([Revenue],CALCULATE([Revenue],ALL('sales products'),ALL('sales customers'),ALL('sales markets')))`
 
-## Key Insights,
+## Key Insights Visualisation,
 ![alt text](https://github.com/immanuvelprathap/ETL-Sales_Analysis_Report---MySQL-PowerBI/blob/main/sales_insights_report_page-0001.jpg)
 
-## Profit Analysis,
+## Profit Analysis Visualisation,
 ![alt text](https://github.com/immanuvelprathap/ETL-Sales_Analysis_Report---MySQL-PowerBI/blob/main/sales_insights_report_page-0002.jpg)
 
-## Performance Analysis,
+## Performance Analysis Visualisation,
 ![alt text](https://github.com/immanuvelprathap/ETL-Sales_Analysis_Report---MySQL-PowerBI/blob/main/sales_insights_report_page-0003.jpg)
 
 
