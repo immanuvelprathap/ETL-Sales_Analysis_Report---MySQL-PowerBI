@@ -71,8 +71,9 @@ Formulas used in Power BI,
  
  `Revenue Contribution % = DIVIDE([Revenue],CALCULATE([Revenue],ALL('sales products'),ALL('sales customers'),ALL('sales markets')))`
 
-
-## Data Model,
+### Steps
+* Create a simple dataflow in PowerBI Model. (You can also do it on VSCODE using SSIS integration).
+### ie.., Data Model,
 ![alt text](https://github.com/immanuvelprathap/ETL-Sales_Analysis_Report---MySQL-PowerBI/blob/main/Data%20Model%20-%20Relationship.png)
 
 
@@ -80,13 +81,13 @@ Formulas used in Power BI,
 
 
 ## Key Insights,
-
+![alt text](https://github.com/immanuvelprathap/ETL-Sales_Analysis_Report---MySQL-PowerBI/blob/main/sales_insights_report_page-0001.jpg)
 
 
 
 
 ## Profit Analysis,
-
+![alt text](https://github.com/immanuvelprathap/ETL-Sales_Analysis_Report---MySQL-PowerBI/blob/main/sales_insights_report_page-0002.jpg)
 
 
 
@@ -95,6 +96,7 @@ Formulas used in Power BI,
 
 
 ## Performance Analysis,
+![alt text](https://github.com/immanuvelprathap/ETL-Sales_Analysis_Report---MySQL-PowerBI/blob/main/sales_insights_report_page-0003.jpg)
 
 
 
