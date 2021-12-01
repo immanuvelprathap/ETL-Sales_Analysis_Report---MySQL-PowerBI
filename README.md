@@ -73,7 +73,7 @@ Formulas used in Power BI,
 
 
 ## Data Model,
-![alt text](http://url/to/DataModel- Relationship.png)
+![alt text](https://github.com/immanuvelprathap/ETL-Sales_Analysis_Report---MySQL-PowerBI/blob/main/Data%20Model%20-%20Relationship.png)
 
 
 
