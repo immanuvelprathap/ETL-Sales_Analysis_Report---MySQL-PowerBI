@@ -15,8 +15,26 @@ Hence, we will execute ETL(Extract,Transform,Load) on MySQL and create a respons
 
 * Basic Knowledge about SQL and Microsoft Power BI tools.
 
+## Steps :
+
+### Extract
+* Create an SQL database in SSMS(MySQL Workbench) and load/extract the data from MySql Database. 
+# NOte: 
+* Usually in companies they create a "Data Warehouse" using ETL and from there follow with,
+*  Data Modelling - Data Cleaning - Data Transformation - Data Visualization and so on.
+
+![alt text](https://www.altexsoft.com/media/2021/03/the-etl-workflow.png)
+
+## Data Model,
+* Create a simple dataflow in PowerBI Model. (You can also do it on VSCODE using SSIS integration).
+
+![alt text](https://github.com/immanuvelprathap/ETL-Sales_Analysis_Report---MySQL-PowerBI/blob/main/Data%20Model%20-%20Relationship.png)
+
+* Now, apply necessary Transformations, (Very Similar to Data Preprocessing Steps in ML),
+
 ## I have used these SQL formulas/Syntax, 
-### More on sql syntax : https://www.w3schools.com/sql/sql_syntax.asp
+
+### To know more on SQL Syntax : https://www.w3schools.com/sql/sql_syntax.asp
 
 1. To show all customer records
 
@@ -71,34 +89,11 @@ Formulas used in Power BI,
  
  `Revenue Contribution % = DIVIDE([Revenue],CALCULATE([Revenue],ALL('sales products'),ALL('sales customers'),ALL('sales markets')))`
 
-### Steps
-* Create a simple dataflow in PowerBI Model. (You can also do it on VSCODE using SSIS integration).
-### ie.., Data Model,
-![alt text](https://github.com/immanuvelprathap/ETL-Sales_Analysis_Report---MySQL-PowerBI/blob/main/Data%20Model%20-%20Relationship.png)
-
-
-
-
-
 ## Key Insights,
 ![alt text](https://github.com/immanuvelprathap/ETL-Sales_Analysis_Report---MySQL-PowerBI/blob/main/sales_insights_report_page-0001.jpg)
-
-
-
 
 ## Profit Analysis,
 ![alt text](https://github.com/immanuvelprathap/ETL-Sales_Analysis_Report---MySQL-PowerBI/blob/main/sales_insights_report_page-0002.jpg)
 
-
-
-
-
-
-
 ## Performance Analysis,
 ![alt text](https://github.com/immanuvelprathap/ETL-Sales_Analysis_Report---MySQL-PowerBI/blob/main/sales_insights_report_page-0003.jpg)
-
-
-
-
-
