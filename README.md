@@ -1,4 +1,5 @@
-# ETL-Sales_Analysis_Report---MySQL-PowerBI
+# ETL-Sales_Analysis_Report---MySQL-PowerBI,
+# To view the Responsive Power BI dashboard click here : https://app.powerbi.com/groups/me/reports/fb8e7d0e-71c7-4786-a8aa-645aff74b836/ReportSection
 
 ## Description of the scenerio? PROBLEM STATEMENT!
 Let's say a company is facing isuues with thier Sales and as a Data Analyst or Data Scientist what insights can you pull out from the Sales data?
