@@ -71,3 +71,32 @@ Formulas used in Power BI,
  
  `Revenue Contribution % = DIVIDE([Revenue],CALCULATE([Revenue],ALL('sales products'),ALL('sales customers'),ALL('sales markets')))`
 
+
+## Data Model,
+
+
+
+
+
+
+## Key Insights,
+
+
+
+
+
+## Profit Analysis,
+
+
+
+
+
+
+
+
+## Performance Analysis,
+
+
+
+
+
