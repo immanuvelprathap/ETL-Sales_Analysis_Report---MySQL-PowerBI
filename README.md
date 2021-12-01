@@ -108,7 +108,7 @@ Formulas I used in Power BI,
 ![alt text](https://github.com/immanuvelprathap/ETL-Sales_Analysis_Report---MySQL-PowerBI/blob/main/sales_insights_report_page-0003.jpg)
 
 
-# Solutuions?
+# Solutions?
 * You can clearly see that the company sales are dropping gradually, so, what suggestions as an analyst can we conclude? Well, It depends on many factors, which include,
 -  Product Quality,
 -  Advertising or Promotions,
