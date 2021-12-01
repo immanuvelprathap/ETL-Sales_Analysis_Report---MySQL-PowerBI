@@ -28,6 +28,8 @@ Hence, we will execute ETL(Extract,Transform,Load) on MySQL and create a respons
 ## Data Model,
 * Create a simple dataflow in PowerBI Model. (You can also do it on VSCODE using SSIS integration).
 
+* Here, I''m following a Star Schema to Model,
+
 ![alt text](https://github.com/immanuvelprathap/ETL-Sales_Analysis_Report---MySQL-PowerBI/blob/main/Data%20Model%20-%20Relationship.png)
 
 * Now, apply necessary Transformations, (Very Similar to Data Preprocessing Steps in ML),
