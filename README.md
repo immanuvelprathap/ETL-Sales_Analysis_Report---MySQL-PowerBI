@@ -2,12 +2,12 @@
 # To view the Responsive Power BI dashboard click here : https://app.powerbi.com/groups/me/reports/fb8e7d0e-71c7-4786-a8aa-645aff74b836/ReportSection
 
 ## Description of the scenerio? PROBLEM STATEMENT!
-Let's say a company is facing isuues with thier Sales and as a Data Analyst or Data Scientist what insights can you pull out from the Sales data?
+* Let's say a company is facing isuues with thier Sales and as a Data Analyst or Data Scientist what insights can you pull out from the Sales data?
 
-Firstly, you got to design a Strategy to tackle the problem. Usually Project Manager's use something called as AIMS Grid to project plan who all will be involved or bascially find out the relations to sort this issue for the company. https://www.coverdale.de/fileadmin/Germany/Toolbox/Aims-grid.pdf
+* Firstly, you got to design a Strategy to tackle the problem. Usually Project Manager's use something called as AIMS Grid to project plan who all will be involved or bascially find out the relations to sort this issue for the company. https://www.coverdale.de/fileadmin/Germany/Toolbox/Aims-grid.pdf
 
-## A Picture is worth more than a Thousand word, right?
-Hence, we will execute ETL(Extract,Transform,Load) on MySQL and create a responsive dashboard in PowerBi and finally understand the business opportunities,patterns and trends in the data via visualization graphs! This can be the Solution to the uplift the Companies Sales!!!
+## A Picture is worth more than a thousand words, right?
+* Hence, we will execute ETL(Extract,Transform,Load) on MySQL and create a responsive dashboard in PowerBi and finally understand the business opportunities,patterns an   trends in the data via visualization graphs! This can be the Solution to the uplift the Companies Sales!!!
 
 ## Let's Go!
 
