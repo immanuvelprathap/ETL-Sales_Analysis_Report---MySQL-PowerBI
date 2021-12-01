@@ -123,3 +123,17 @@ Formulas I used in Power BI,
 -  Some Suppliers might have generated huge Revenue for the company but the Profits Margins per product made to the company are low? Should we reconsider the contracts?
 -  Which Product lines are contributing to max profit margins? Who are those suppliers? Is your Selling Price per product is comparatively having more profit margins with your suppliers and suppliers-suppliers (Traders to End-Customers)
 
+## Authors
+
+Immanuvel Prathap S
+
+## Version History
+
+* 0.1
+    * Initial Release
+
+## License
+
+This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+
+
