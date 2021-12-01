@@ -73,7 +73,7 @@ Formulas used in Power BI,
 
 
 ## Data Model,
-
+![alt text](http://url/to/DataModel- Relationship.png)
 
 
 
