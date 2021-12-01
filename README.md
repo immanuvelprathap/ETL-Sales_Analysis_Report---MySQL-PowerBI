@@ -16,12 +16,12 @@
 
 ### Dependencies
 
-* Basic Knowledge about SQL and Microsoft Power BI tools.
+* Basic Knowledge about MySQL and Microsoft Power BI tools.
 
 ## Steps :
 
 ### Extract
-* Create an SQL database in SSMS(MySQL Workbench) and load/extract the data from MySql Database. 
+* Create an MySQL database in SSMS(MySQL Workbench) and load/extract the data from MySql Database. 
 
 # Note: 
 * Usually in companies they create a "Data Warehouse" using ETL and from there follow with,
@@ -41,9 +41,9 @@
 
 * Now, apply necessary Transformations, (Very Similar to Data Preprocessing Steps in ML),
 
-## I have used these SQL formulas/Syntax, 
+## I have used these MySQL formulas/Syntax, 
 
-### To know more on SQL Syntax : https://www.w3schools.com/sql/sql_syntax.asp
+### To know more on MySQL Syntax : https://www.w3schools.com/sql/sql_syntax.asp
 
 1. To show all customer records
 
