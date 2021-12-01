@@ -25,11 +25,13 @@
 
 ![alt text](https://www.altexsoft.com/media/2021/03/the-etl-workflow.png)
 
+
 ## Data Model,
 * Create a simple dataflow in PowerBI Model. (You can also do it on VSCODE using SSIS integration).
 
 * Here, I''m following a Star Schema to Model,
 * You can Learn more about Data Modelling if you follow this free course, https://www.sqlbi.com/p/introduction-to-data-modeling-for-power-bi-video-course/
+* Also, to learn to create calculated columns, measures, and custom tables, follow this course: https://www.sqlbi.com/p/introducing-dax-video-course/
 
 ![alt text](https://github.com/immanuvelprathap/ETL-Sales_Analysis_Report---MySQL-PowerBI/blob/main/Data%20Model%20-%20Relationship.png)
 
